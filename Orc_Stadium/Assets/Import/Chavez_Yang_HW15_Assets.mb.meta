@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: b3bbed6447222b84bb66b241fd7ca5d0
+timeCreated: 1532026547
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Ball_A_Yang
+    100002: Ball_B_Yang
+    100004: //RootNode
+    100006: Mammoth_T_1_Yang
+    100008: Mammoth_T_2_Yang
+    100010: Med_Spaiky_Sides1_Yang
+    100012: Mega_Spike_Yang
+    100014: Plank_Floor_Battom_Yang
+    100016: Plank_Floor_Yang
+    100018: Plank_Orcs_Names_2_Yang
+    100020: Planks_Orcs_Downs_QTRS_1_Yang
+    100022: Planks_Orcs_Downs_QTRS_2_Yang
+    100024: Planks_Orcs_names_1_Yang
+    100026: Score_Plank_Atta_Yang
+    100028: Score_Plank_Blank_Yang
+    100030: Score_Plank_Num_0_Yang
+    100032: Score_Plank_Num_1_Yang
+    100034: Score_Plank_Num_8_Yang
+    100036: WoodDown_Troncos_Abajo_Yang
+    100038: WoodUp_Troncos_arriba_Yang
+    400000: Ball_A_Yang
+    400002: Ball_B_Yang
+    400004: //RootNode
+    400006: Mammoth_T_1_Yang
+    400008: Mammoth_T_2_Yang
+    400010: Med_Spaiky_Sides1_Yang
+    400012: Mega_Spike_Yang
+    400014: Plank_Floor_Battom_Yang
+    400016: Plank_Floor_Yang
+    400018: Plank_Orcs_Names_2_Yang
+    400020: Planks_Orcs_Downs_QTRS_1_Yang
+    400022: Planks_Orcs_Downs_QTRS_2_Yang
+    400024: Planks_Orcs_names_1_Yang
+    400026: Score_Plank_Atta_Yang
+    400028: Score_Plank_Blank_Yang
+    400030: Score_Plank_Num_0_Yang
+    400032: Score_Plank_Num_1_Yang
+    400034: Score_Plank_Num_8_Yang
+    400036: WoodDown_Troncos_Abajo_Yang
+    400038: WoodUp_Troncos_arriba_Yang
+    2300000: Ball_A_Yang
+    2300002: Ball_B_Yang
+    2300004: Mammoth_T_1_Yang
+    2300006: Mammoth_T_2_Yang
+    2300008: Med_Spaiky_Sides1_Yang
+    2300010: Mega_Spike_Yang
+    2300012: Plank_Floor_Battom_Yang
+    2300014: Plank_Floor_Yang
+    2300016: Plank_Orcs_Names_2_Yang
+    2300018: Planks_Orcs_Downs_QTRS_1_Yang
+    2300020: Planks_Orcs_Downs_QTRS_2_Yang
+    2300022: Planks_Orcs_names_1_Yang
+    2300024: Score_Plank_Atta_Yang
+    2300026: Score_Plank_Blank_Yang
+    2300028: Score_Plank_Num_0_Yang
+    2300030: Score_Plank_Num_1_Yang
+    2300032: Score_Plank_Num_8_Yang
+    2300034: WoodDown_Troncos_Abajo_Yang
+    2300036: WoodUp_Troncos_arriba_Yang
+    3300000: Ball_A_Yang
+    3300002: Ball_B_Yang
+    3300004: Mammoth_T_1_Yang
+    3300006: Mammoth_T_2_Yang
+    3300008: Med_Spaiky_Sides1_Yang
+    3300010: Mega_Spike_Yang
+    3300012: Plank_Floor_Battom_Yang
+    3300014: Plank_Floor_Yang
+    3300016: Plank_Orcs_Names_2_Yang
+    3300018: Planks_Orcs_Downs_QTRS_1_Yang
+    3300020: Planks_Orcs_Downs_QTRS_2_Yang
+    3300022: Planks_Orcs_names_1_Yang
+    3300024: Score_Plank_Atta_Yang
+    3300026: Score_Plank_Blank_Yang
+    3300028: Score_Plank_Num_0_Yang
+    3300030: Score_Plank_Num_1_Yang
+    3300032: Score_Plank_Num_8_Yang
+    3300034: WoodDown_Troncos_Abajo_Yang
+    3300036: WoodUp_Troncos_arriba_Yang
+    4300000: Ball_A_Yang
+    4300002: Ball_B_Yang
+    4300004: Score_Plank_Atta_Yang
+    4300006: Mega_Spike_Yang
+    4300008: Plank_Floor_Yang
+    4300010: Plank_Floor_Battom_Yang
+    4300012: WoodDown_Troncos_Abajo_Yang
+    4300014: WoodUp_Troncos_arriba_Yang
+    4300016: Score_Plank_Num_0_Yang
+    4300018: Score_Plank_Blank_Yang
+    4300020: Score_Plank_Num_8_Yang
+    4300022: Planks_Orcs_Downs_QTRS_2_Yang
+    4300024: Med_Spaiky_Sides1_Yang
+    4300026: Score_Plank_Num_1_Yang
+    4300028: Plank_Orcs_Names_2_Yang
+    4300030: Planks_Orcs_Downs_QTRS_1_Yang
+    4300032: Planks_Orcs_names_1_Yang
+    4300034: Mammoth_T_1_Yang
+    4300036: Mammoth_T_2_Yang
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

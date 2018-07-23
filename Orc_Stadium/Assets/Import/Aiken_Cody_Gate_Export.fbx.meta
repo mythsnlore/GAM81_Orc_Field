@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: e75369e4599071545994ffeca5a9de40
+timeCreated: 1532027780
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CA_Bone_Femur73_MeshPart0
+    100004: CA_Bone_Femur73_MeshPart1
+    100006: CA_Woodspike_1_L_1
+    100008: CA_Woodspike_1_L_2
+    100010: CA_Woodspike_1_R_1
+    100012: CA_Woodspike_1_R_2
+    100014: CA_Woodspike_1_R_3
+    100016: CA_Woodspike_2A_L_1
+    100018: CA_Woodspike_2A_L_2
+    100020: CA_Woodspike_2A_L_3
+    100022: CA_Woodspike_2A_R_1
+    100024: CA_Woodspike_2A_R_2
+    100026: CA_Woodspike_2B_L_2
+    100028: CA_Woodspike_2B_L_3
+    100030: CA_Woodspike_2B_R_1
+    100032: CA_Woodspike_2B_R_2
+    100034: CA_Woodspike_3_L_2
+    100036: CA_Woodspike_3_R_1
+    400000: //RootNode
+    400002: CA_Bone_Femur73_MeshPart0
+    400004: CA_Bone_Femur73_MeshPart1
+    400006: CA_Woodspike_1_L_1
+    400008: CA_Woodspike_1_L_2
+    400010: CA_Woodspike_1_R_1
+    400012: CA_Woodspike_1_R_2
+    400014: CA_Woodspike_1_R_3
+    400016: CA_Woodspike_2A_L_1
+    400018: CA_Woodspike_2A_L_2
+    400020: CA_Woodspike_2A_L_3
+    400022: CA_Woodspike_2A_R_1
+    400024: CA_Woodspike_2A_R_2
+    400026: CA_Woodspike_2B_L_2
+    400028: CA_Woodspike_2B_L_3
+    400030: CA_Woodspike_2B_R_1
+    400032: CA_Woodspike_2B_R_2
+    400034: CA_Woodspike_3_L_2
+    400036: CA_Woodspike_3_R_1
+    2300000: CA_Bone_Femur73_MeshPart0
+    2300002: CA_Bone_Femur73_MeshPart1
+    2300004: CA_Woodspike_1_L_1
+    2300006: CA_Woodspike_1_L_2
+    2300008: CA_Woodspike_1_R_1
+    2300010: CA_Woodspike_1_R_2
+    2300012: CA_Woodspike_1_R_3
+    2300014: CA_Woodspike_2A_L_1
+    2300016: CA_Woodspike_2A_L_2
+    2300018: CA_Woodspike_2A_L_3
+    2300020: CA_Woodspike_2A_R_1
+    2300022: CA_Woodspike_2A_R_2
+    2300024: CA_Woodspike_2B_L_2
+    2300026: CA_Woodspike_2B_L_3
+    2300028: CA_Woodspike_2B_R_1
+    2300030: CA_Woodspike_2B_R_2
+    2300032: CA_Woodspike_3_L_2
+    2300034: CA_Woodspike_3_R_1
+    3300000: CA_Bone_Femur73_MeshPart0
+    3300002: CA_Bone_Femur73_MeshPart1
+    3300004: CA_Woodspike_1_L_1
+    3300006: CA_Woodspike_1_L_2
+    3300008: CA_Woodspike_1_R_1
+    3300010: CA_Woodspike_1_R_2
+    3300012: CA_Woodspike_1_R_3
+    3300014: CA_Woodspike_2A_L_1
+    3300016: CA_Woodspike_2A_L_2
+    3300018: CA_Woodspike_2A_L_3
+    3300020: CA_Woodspike_2A_R_1
+    3300022: CA_Woodspike_2A_R_2
+    3300024: CA_Woodspike_2B_L_2
+    3300026: CA_Woodspike_2B_L_3
+    3300028: CA_Woodspike_2B_R_1
+    3300030: CA_Woodspike_2B_R_2
+    3300032: CA_Woodspike_3_L_2
+    3300034: CA_Woodspike_3_R_1
+    4300000: CA_Bone_Femur73_MeshPart0
+    4300002: CA_Bone_Femur73_MeshPart1
+    4300004: CA_Woodspike_2B_L_3
+    4300006: CA_Woodspike_1_L_1
+    4300008: CA_Woodspike_2A_L_2
+    4300010: CA_Woodspike_2A_L_1
+    4300012: CA_Woodspike_2A_L_3
+    4300014: CA_Woodspike_1_L_2
+    4300016: CA_Woodspike_3_L_2
+    4300018: CA_Woodspike_2B_L_2
+    4300020: CA_Woodspike_3_R_1
+    4300022: CA_Woodspike_1_R_2
+    4300024: CA_Woodspike_2A_R_2
+    4300026: CA_Woodspike_1_R_3
+    4300028: CA_Woodspike_1_R_1
+    4300030: CA_Woodspike_2B_R_1
+    4300032: CA_Woodspike_2A_R_1
+    4300034: CA_Woodspike_2B_R_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

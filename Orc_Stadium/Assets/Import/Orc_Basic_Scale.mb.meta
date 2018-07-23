@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: a25cc00b05ffc2d4ab07848ba9d591df
+timeCreated: 1531927577
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: A_Single_meter
+    100002: approx_gate
+    100004: approx_gate1
+    100006: basic_tent
+    100008: Basic_Wall_Plank
+    100010: Basic_Wall_Plank1
+    100012: Basic_Wall_Plank2
+    100014: Bench
+    100016: Chain_Normal
+    100018: Field
+    100020: Large_Timber
+    100022: Large_Timber1
+    100024: //RootNode
+    100026: Orc_Scale
+    100028: pCube1
+    100030: Rock_Tooth
+    100032: Small_Spikes
+    100034: Stupid_Big_Chain9
+    100036: Table
+    400000: A_Single_meter
+    400002: approx_gate
+    400004: approx_gate1
+    400006: basic_tent
+    400008: Basic_Wall_Plank
+    400010: Basic_Wall_Plank1
+    400012: Basic_Wall_Plank2
+    400014: Bench
+    400016: Chain_Normal
+    400018: Field
+    400020: Large_Timber
+    400022: Large_Timber1
+    400024: //RootNode
+    400026: Orc_Scale
+    400028: pCube1
+    400030: Rock_Tooth
+    400032: Small_Spikes
+    400034: Stupid_Big_Chain9
+    400036: Table
+    2300000: A_Single_meter
+    2300002: approx_gate
+    2300004: approx_gate1
+    2300006: basic_tent
+    2300008: Basic_Wall_Plank
+    2300010: Basic_Wall_Plank1
+    2300012: Basic_Wall_Plank2
+    2300014: Bench
+    2300016: Chain_Normal
+    2300018: Field
+    2300020: Large_Timber
+    2300022: Large_Timber1
+    2300024: Orc_Scale
+    2300026: pCube1
+    2300028: Rock_Tooth
+    2300030: Small_Spikes
+    2300032: Stupid_Big_Chain9
+    2300034: Table
+    3300000: A_Single_meter
+    3300002: approx_gate
+    3300004: approx_gate1
+    3300006: basic_tent
+    3300008: Basic_Wall_Plank
+    3300010: Basic_Wall_Plank1
+    3300012: Basic_Wall_Plank2
+    3300014: Bench
+    3300016: Chain_Normal
+    3300018: Field
+    3300020: Large_Timber
+    3300022: Large_Timber1
+    3300024: Orc_Scale
+    3300026: pCube1
+    3300028: Rock_Tooth
+    3300030: Small_Spikes
+    3300032: Stupid_Big_Chain9
+    3300034: Table
+    4300000: A_Single_meter
+    4300002: Orc_Scale
+    4300004: Large_Timber
+    4300006: Small_Spikes
+    4300008: Basic_Wall_Plank
+    4300010: Bench
+    4300012: Table
+    4300014: Chain_Normal
+    4300016: Rock_Tooth
+    4300018: Stupid_Big_Chain9
+    4300020: Field
+    4300022: pCube1
+    4300024: Basic_Wall_Plank1
+    4300026: Large_Timber1
+    4300028: approx_gate
+    4300030: approx_gate1
+    4300032: Basic_Wall_Plank2
+    4300034: basic_tent
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

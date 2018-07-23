@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 8e54aec46bca672448025e547058ed67
+timeCreated: 1532023675
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Flag_A
+    100002: Flag_B
+    100004: Flag_C
+    100006: Grass_A
+    100008: Grass_B
+    100010: Grass_C
+    100012: //RootNode
+    100014: Marker_A
+    100016: Marker_B
+    100018: Marker_C
+    100020: Marker_D
+    100022: Marker_E
+    100024: pCylinder17
+    100026: pCylinder18
+    100028: pCylinder19
+    100030: pCylinder20
+    100032: pCylinder21
+    100034: pCylinder22
+    100036: pCylinder23
+    100038: pCylinder24
+    100040: Pennant_A
+    100042: Pennant_B
+    100044: Pennant_C
+    400000: Flag_A
+    400002: Flag_B
+    400004: Flag_C
+    400006: Grass_A
+    400008: Grass_B
+    400010: Grass_C
+    400012: //RootNode
+    400014: Marker_A
+    400016: Marker_B
+    400018: Marker_C
+    400020: Marker_D
+    400022: Marker_E
+    400024: pCylinder17
+    400026: pCylinder18
+    400028: pCylinder19
+    400030: pCylinder20
+    400032: pCylinder21
+    400034: pCylinder22
+    400036: pCylinder23
+    400038: pCylinder24
+    400040: Pennant_A
+    400042: Pennant_B
+    400044: Pennant_C
+    2300000: Flag_A
+    2300002: Flag_B
+    2300004: Flag_C
+    2300006: Grass_A
+    2300008: Grass_B
+    2300010: Grass_C
+    2300012: Marker_A
+    2300014: Marker_B
+    2300016: Marker_C
+    2300018: Marker_D
+    2300020: Marker_E
+    2300022: Pennant_A
+    2300024: Pennant_B
+    2300026: Pennant_C
+    3300000: Flag_A
+    3300002: Flag_B
+    3300004: Flag_C
+    3300006: Grass_A
+    3300008: Grass_B
+    3300010: Grass_C
+    3300012: Marker_A
+    3300014: Marker_B
+    3300016: Marker_C
+    3300018: Marker_D
+    3300020: Marker_E
+    3300022: Pennant_A
+    3300024: Pennant_B
+    3300026: Pennant_C
+    4300000: Grass_A
+    4300002: Grass_B
+    4300004: Grass_C
+    4300006: Pennant_A
+    4300008: Pennant_B
+    4300010: Pennant_C
+    4300012: Marker_E
+    4300014: Marker_C
+    4300016: Marker_A
+    4300018: Marker_B
+    4300020: Marker_D
+    4300022: Flag_A
+    4300024: Flag_B
+    4300026: Flag_C
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

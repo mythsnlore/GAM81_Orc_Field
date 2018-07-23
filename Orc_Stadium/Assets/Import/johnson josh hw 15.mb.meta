@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 202b7e77c3aa26344a5fed3970d82d8c
+timeCreated: 1532027697
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bat_and_nails1_josh_johnson
+    100002: Cart_sign_josh_johnson
+    100004: consession_stand_cart_josh_johnson
+    100006: cup_size_large_josh_johnson
+    100008: cup_size_medium_josh_johnson
+    100010: cup_sze_small_josh_johnson
+    100012: //RootNode
+    100014: left_chain_josh_johnson
+    100016: pike_sign2_josh_johnson
+    100018: Right_chain_josh_johnson
+    100020: serving_cup_1_josh_johnson
+    100022: serving_cup_2_josh_johnson
+    100024: serving_cup_3_josh_johnson
+    100026: serving_cup_4_josh_johnson
+    100028: serving_cup_5_josh_johnson
+    100030: serving_cup_6_josh_johnson
+    100032: serving_tray_josh_johnson
+    100034: top2_josh_johnson
+    100036: Wheels_josh_johnson
+    400000: bat_and_nails1_josh_johnson
+    400002: Cart_sign_josh_johnson
+    400004: consession_stand_cart_josh_johnson
+    400006: cup_size_large_josh_johnson
+    400008: cup_size_medium_josh_johnson
+    400010: cup_sze_small_josh_johnson
+    400012: //RootNode
+    400014: left_chain_josh_johnson
+    400016: pike_sign2_josh_johnson
+    400018: Right_chain_josh_johnson
+    400020: serving_cup_1_josh_johnson
+    400022: serving_cup_2_josh_johnson
+    400024: serving_cup_3_josh_johnson
+    400026: serving_cup_4_josh_johnson
+    400028: serving_cup_5_josh_johnson
+    400030: serving_cup_6_josh_johnson
+    400032: serving_tray_josh_johnson
+    400034: top2_josh_johnson
+    400036: Wheels_josh_johnson
+    2300000: bat_and_nails1_josh_johnson
+    2300002: Cart_sign_josh_johnson
+    2300004: consession_stand_cart_josh_johnson
+    2300006: cup_size_large_josh_johnson
+    2300008: cup_size_medium_josh_johnson
+    2300010: cup_sze_small_josh_johnson
+    2300012: left_chain_josh_johnson
+    2300014: pike_sign2_josh_johnson
+    2300016: Right_chain_josh_johnson
+    2300018: serving_cup_1_josh_johnson
+    2300020: serving_cup_2_josh_johnson
+    2300022: serving_cup_3_josh_johnson
+    2300024: serving_cup_4_josh_johnson
+    2300026: serving_cup_5_josh_johnson
+    2300028: serving_cup_6_josh_johnson
+    2300030: serving_tray_josh_johnson
+    2300032: top2_josh_johnson
+    2300034: Wheels_josh_johnson
+    3300000: bat_and_nails1_josh_johnson
+    3300002: Cart_sign_josh_johnson
+    3300004: consession_stand_cart_josh_johnson
+    3300006: cup_size_large_josh_johnson
+    3300008: cup_size_medium_josh_johnson
+    3300010: cup_sze_small_josh_johnson
+    3300012: left_chain_josh_johnson
+    3300014: pike_sign2_josh_johnson
+    3300016: Right_chain_josh_johnson
+    3300018: serving_cup_1_josh_johnson
+    3300020: serving_cup_2_josh_johnson
+    3300022: serving_cup_3_josh_johnson
+    3300024: serving_cup_4_josh_johnson
+    3300026: serving_cup_5_josh_johnson
+    3300028: serving_cup_6_josh_johnson
+    3300030: serving_tray_josh_johnson
+    3300032: top2_josh_johnson
+    3300034: Wheels_josh_johnson
+    4300000: consession_stand_cart_josh_johnson
+    4300002: Right_chain_josh_johnson
+    4300004: left_chain_josh_johnson
+    4300006: top2_josh_johnson
+    4300008: Cart_sign_josh_johnson
+    4300010: bat_and_nails1_josh_johnson
+    4300012: Wheels_josh_johnson
+    4300014: serving_tray_josh_johnson
+    4300016: serving_cup_1_josh_johnson
+    4300018: serving_cup_2_josh_johnson
+    4300020: serving_cup_3_josh_johnson
+    4300022: serving_cup_4_josh_johnson
+    4300024: serving_cup_5_josh_johnson
+    4300026: serving_cup_6_josh_johnson
+    4300028: cup_sze_small_josh_johnson
+    4300030: cup_size_medium_josh_johnson
+    4300032: cup_size_large_josh_johnson
+    4300034: pike_sign2_josh_johnson
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
